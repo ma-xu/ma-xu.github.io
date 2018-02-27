@@ -1,19 +1,19 @@
-- name: Software Engineer Keywords
+- name: Language
   keywords:
       - Java
-      - C++
-      - Python
-      - Design Patterns
+      - Node.js
+      - Html css js
+      - Bootstrap
+      - PHP
+      - Matlab 
 
-- name: Mobile Developer Keywords
+- name: Pattern Recognition and Machine Learning
   keywords:
-      - Android
-      - Reverse Engineering
+      - Feature Selection
+      - Supervised Learning
+      - Unsupervised Learning
+      - L1-norm
+      - L21-norm
+      - L2p-norm
 
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+
