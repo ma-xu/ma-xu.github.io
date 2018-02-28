@@ -8,17 +8,13 @@ menu: 关于
 permalink: /about/
 ---
 
-明朗坦荡 纵情豁达
-
-有得有失有坚持
-
-能哭能笑能尽欢
+醉后不知天再水，满船清梦压星河。
 
 
-## 联系
+## Contact Me
 
 {% for website in site.data.social %}
-* {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
+* {{ website.sitename }}：[{{ website.name }}]({{ website.url }})
 {% endfor %}
 
 ## Skill Keywords
