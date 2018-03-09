@@ -18,7 +18,7 @@ keywords: Gradient descent,梯度下降法,泰勒公式,代码
 梯度下降法表达形式为
 
 $$
-x=x-step\cdot {f(x))}'
+x^{k+1}=x^k-step\cdot {f(x^k))}'
 $$
 
 其中$$ step $$为步长，大于0。注意每次迭代步长可以改变。
@@ -31,10 +31,10 @@ $$
 
 $$\min f(x), x\in R^n$$  
 
-函数在点$$x$$处沿方向$$d$$的变化率可以用方向导数表示，为梯度与方向的内积，$$ \triangledown\cdot {f(x)}'\cdot d$$ ,因此，求最快下降方向，就是求这么一个带约束的非线性规划
+函数在点$$x$$处沿方向$$d$$的变化率可以用方向导数表示，为梯度与方向的内积，$$ \triangledown\cdot {f(x)}\cdot d$$ ,因此，求最快下降方向，就是求这么一个带约束的非线性规划
 
 $$
- \min \triangledown\cdot {f(x)}'\cdot d 
+ \min \triangledown\cdot {f(x)}\cdot d 
 $$
 
 
@@ -43,6 +43,23 @@ s.t. \left \| d \right \|\leq 1
 $$  
 
 根据柯西不等式有
+
+$$
+\left | \triangledown{f(x)}d \right |\leq \left \|\triangledown{f(x)}  \right \|\left \| d \right \|\leq \left \|\triangledown{f(x)}  \right \|
+$$
+
+所有去掉绝对值可以得到
+
+$$
+\triangledown{f(x)}d \geq - \left \| \triangledown{f(x)} \right \|
+$$
+
+那么只有当 $$d=- \frac{\triangledown f(x)}{\left \| \triangledown f(x) \right \|}$$时，等号成立，即负梯度下降最快。
+
+
+
+###  收敛性证明
+
 
 
 
@@ -60,6 +77,12 @@ $$
 f(x)=f(x_0)+{f}'(x-x_0)
 $$
 
+## 伪代码
+```
+初始化点x,  设置允许误差
+
+
+```
 
 ## 一维优化例子
 
