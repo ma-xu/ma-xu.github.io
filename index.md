@@ -1,7 +1,7 @@
 ---
 layout: home2
-title: Lei Mao
-description: "Lei Mao's Website"
+title: Xu Ma
+description: "Xu Ma's Website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: /images/website_images/Optimized-website_teaser.jpg
@@ -13,10 +13,11 @@ image:
     </style>
 </head>
 
-<figure>
+<!-- <figure>
   <img src="{{ site.url }}/images/author_images/Optimized-Lei-Smoky_Mountain.JPG"/>
   <figcaption>Lei Mao at Smoky Mountain in 2015</figcaption>
-</figure>
+</figure> -->
+<video src="{{ site.url }}/images/author_images/video.mp4" width="320" height="200" controls preload></video>
 
 ### Who am I
 
