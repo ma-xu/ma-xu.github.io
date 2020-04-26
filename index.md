@@ -17,7 +17,7 @@ image:
   <img src="{{ site.url }}/images/author_images/Optimized-Lei-Smoky_Mountain.JPG"/>
   <figcaption>Lei Mao at Smoky Mountain in 2015</figcaption>
 </figure> -->
-<video src="{{ site.url }}/images/author_images/video.mp4" width="320" height="200" controls preload></video>
+<video src="{{ site.url }}/images/author_images/video.mp4"  controls preload></video>
 
 ### Who am I
 
