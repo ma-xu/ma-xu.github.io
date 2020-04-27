@@ -4,7 +4,7 @@ title: Xu Ma
 description: "Xu Ma's Website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: /images/website_images/Optimized-website_teaser.jpg
+  feature: /images/website_images/mountain.png
 ---
 
 <head>
