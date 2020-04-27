@@ -40,8 +40,8 @@ links:
     url: /readings/
   - title: Publications
     url: /publications/
-  - title: Tools
-    url: /tools/
+  # - title: Tools
+  #   url: /tools/
   - title: Experience
     url: /experience/
     
