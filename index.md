@@ -19,8 +19,7 @@ image:
 </figure> -->
 <video src="{{ site.url }}/images/author_images/video.mp4" width="100%" height="400" controls preload></video>
 
-Xu Ma is a Ph.D candidate in the Department of Computer Science and Engineering at the University of North Texas. He obtained the B.S and Master degrees in College of Information Science and Technology at Nanjing Forestry University, in 2015 and 2018.
-He was interested in pattern recognition, machine learning in master study. From 2018, his research interest is primarily in Computer Vision, and Connected Autonomous Vehicles.
+I'm a Ph.D candidate in the Department of Computer Science and Engineering at the University of North Texas, advised by Dr. Song Fu. I obtained the B.S and Master degrees in College of Information Science and Technology at Nanjing Forestry University, in 2015 and 2018. My research interest is primarily in Computer Vision, Pattern Recognition, and Connected Autonomous Vehicles.
 
 
  
