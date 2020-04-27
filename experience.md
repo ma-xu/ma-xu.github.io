@@ -21,8 +21,8 @@ I will work as a researcher intern at Nokia Bell Labs this summer, advised under
 
 <h3><a>Master. From 2015/Sep to 2018/Jun  </a></h3>
 <p>Nanjing Forestry University</p>
-p><i>Advisor: Dr. Yingan Liu</i></p><br>
+<p><i>Advisor: Dr. Yingan Liu</i></p><br>
 
 <h3><a>B.S. From 2011/Sep to 2015/Jun  </a></h3>
 <p>Nanjing Forestry University</p>
-p><i>Advisor: Dr. Yingan Liu</i></p><br>
+<p><i>Advisor: Dr. Yingan Liu</i></p><br>
