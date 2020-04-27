@@ -25,7 +25,7 @@ comments: false
 
 * **F-Cooper: Feature based Cooperative Perception for Autonomous Vehicle Edge Computing System Using 3D Point Clouds** <br />
   Qi Chen, **Xu Ma**, Sihai Tang, Jingda Guo, Qing Yang, Song Fu<br />
-  *accepted by ICME 2020*<br />
+  *accepted by SEC 2019 (best paper award)*<br />
 ----
 
 * **DCANet: Learning Connected Attentions for Convolutional Neural Networks** <br />
@@ -42,7 +42,7 @@ comments: false
 
 
 
-<br /><br /><br />For previous master publications, please see Google scholar.
+<br /><br /><br />For previous master publications and unselected publications, please see Google scholar.
 
 
 
