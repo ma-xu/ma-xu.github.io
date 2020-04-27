@@ -18,9 +18,9 @@ image:
   <figcaption>Lei Mao at Smoky Mountain in 2015</figcaption>
 </figure> -->
 <video src="{{ site.url }}/images/author_images/video.mp4" width="100%" height="400" controls preload></video>
-<center></center>><figcaption>Taken at Lewisville Lake in 2019</figcaption></center>
-
-###ABOUT ME
+<center><figcaption>Taken at Lewisville Lake in 2019</figcaption></center>
+ 
+### ABOUT ME
 I'm a Ph.D candidate in the Department of Computer Science and Engineering at the University of North Texas, advised by Dr. Song Fu. I obtained the B.S and Master degrees in College of Information Science and Technology at Nanjing Forestry University, in 2015 and 2018. My research interest is primarily in Computer Vision, Pattern Recognition, and Connected Autonomous Vehicles.
 
 
