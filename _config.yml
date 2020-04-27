@@ -2,7 +2,7 @@ title:            Xu Ma's Website
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              https://13952522076.github.io
-#http://localhost:5000
+# http://localhost:5000
 
 disqus_shortname: xuma-github-io
 
@@ -42,6 +42,10 @@ links:
     url: /publications/
   - title: Tools
     url: /tools/
+  - title: Experience
+    url: /experience/
+    
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
