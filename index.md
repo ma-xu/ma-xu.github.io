@@ -24,4 +24,9 @@ image:
 I'm a Ph.D candidate in the Department of Computer Science and Engineering at the University of North Texas, advised by Dr. Song Fu. I obtained the B.S and Master degrees in College of Information Science and Technology at Nanjing Forestry University, in 2015 and 2018. My research interest is primarily in Computer Vision, Pattern Recognition, and Connected Autonomous Vehicles.
 
 
- 
+### News
+[April 2020] One paper has been accepted by IJCAI2020.<br>
+[April 2020] We got a research gift from GCP ($5,000).<br>
+[Mar   2020] Two papers have been accepted by ICME2020. (one oral + one poster)<br>
+[Jan   2020] One paper has been accepted by MetroCAD 2020.<br>
+[Oct   2019] We got $10,000 research gift from GCP.<br>
