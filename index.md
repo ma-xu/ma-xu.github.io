@@ -25,8 +25,10 @@ I'm a Ph.D candidate in the Department of Computer Science and Engineering at th
 
 
 ### News
+<small>
 [April 2020] One paper has been accepted by IJCAI2020.<br>
-[April 2020] We got a research gift from GCP (\$5,000).<br>
+[April 2020] We got a research gift from GCP (5,000 dollars).<br>
 [Mar   2020] Two papers have been accepted by ICME2020. (one oral + one poster)<br>
 [Jan   2020] One paper has been accepted by MetroCAD 2020.<br>
-[Oct   2019] We got \$10,000 research gift from GCP.<br>
+[Oct   2019] We got 10,000 dollars research gift from GCP.<br>
+</small>
