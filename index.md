@@ -26,9 +26,10 @@ I'm a Ph.D candidate in the Department of Computer Science and Engineering at th
 
 ### News
 <small>
-[Apr 2020] One paper has been accepted by IJCAI2020.<br>
+[May 2020] One paper has been accepted by ICIP 2020.<br>
+[Apr 2020] One paper has been accepted by IJCAI 2020.<br>
 [Apr 2020] We got a research gift from GCP (5,000 dollars).<br>
-[Mar 2020] Two papers have been accepted by ICME2020. (one oral + one poster)<br>
+[Mar 2020] Two papers have been accepted by ICME 2020. (one oral + one poster)<br>
 [Jan 2020] One paper has been accepted by MetroCAD 2020.<br>
 [Oct 2019] We got 10,000 dollars research gift from GCP.<br>
 </small>
