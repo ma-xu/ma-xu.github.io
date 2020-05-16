@@ -32,4 +32,5 @@ I'm a Ph.D candidate in the Department of Computer Science and Engineering at th
 [Mar 2020] Two papers have been accepted by ICME 2020. (one oral + one poster)<br>
 [Jan 2020] One paper has been accepted by MetroCAD 2020.<br>
 [Oct 2019] We got 10,000 dollars research gift from GCP.<br>
+[Aug 2019] Served as an reviewer for WACV 2020. <br>
 </small>
