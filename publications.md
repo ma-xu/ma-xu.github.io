@@ -12,6 +12,10 @@ comments: false
   **Xu Ma**, Song Fu <br />
   *accepted by IJCAI 2020 (acceptance rate: 12.6%)*<br />
 ----
+* **Cascaded Context Dependency: An Extremely Lightweight Module for Deep Convolutional Neural Networks** <br />
+  **Xu Ma**<br />
+  *accepted by ICIP 2020*<br />
+----
 
 * **SPANET: SPATIAL PYRAMID ATTENTION NETWORK FOR ENHANCED IMAGERECOGNITION** <br />
   **Jingda Guo**, **Xu Ma**, Andrew Sansom, Mara McGuire, Andrew Kalaani,Qi Chen, Sihai Tang, Qing Yang, Song Fu <br />
@@ -33,11 +37,6 @@ comments: false
   *under review*<br />
 ----
 
-  
-* **Cascaded Context Dependency: An Extremely Lightweight Module for Deep Convolutional Neural Networks** <br />
-  **Xu Ma**<br />
-  *under review*<br />
-----
 
 
 
