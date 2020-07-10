@@ -19,7 +19,7 @@ comments: false
 
 * **SPANET: SPATIAL PYRAMID ATTENTION NETWORK FOR ENHANCED IMAGERECOGNITION** <br />
   **Jingda Guo**, **Xu Ma**, Andrew Sansom, Mara McGuire, Andrew Kalaani,Qi Chen, Sihai Tang, Qing Yang, Song Fu <br />
-  *accepted by ICME 2020 (Oral, **Best student paper**); equal contribution.*<br />
+  *accepted by ICME 2020 (Oral, **Best student paper award**); equal contribution.*<br />
 ----
 
 * **Attention Meets Normalization and Beyond** <br />
