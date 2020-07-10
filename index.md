@@ -26,6 +26,7 @@ I'm a Ph.D candidate in the Department of Computer Science and Engineering at th
 
 ### News
 <small>
+[Jul 2020] We got the ICME 2020 best student paper award for SPANet.<br> 
 [May 2020] We recieved a new research grant of 5,000 bucks from GCP.<br>
 [May 2020] SPANet has been nominated as a candidate for ICME 2020 Best Paper/Best Student Paper Award.<br>
 [May 2020] I gave a talk to [[JingDong AR/VR group]](https://ar.jd.com/). [[Slides]]({{ site.url }}/images/files/Jingdong.pdf).<br>

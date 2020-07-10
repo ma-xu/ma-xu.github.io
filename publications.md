@@ -19,7 +19,7 @@ comments: false
 
 * **SPANET: SPATIAL PYRAMID ATTENTION NETWORK FOR ENHANCED IMAGERECOGNITION** <br />
   **Jingda Guo**, **Xu Ma**, Andrew Sansom, Mara McGuire, Andrew Kalaani,Qi Chen, Sihai Tang, Qing Yang, Song Fu <br />
-  *accepted by ICME 2020 (Oral); equal contribution.*<br />
+  *accepted by ICME 2020 (Oral, **Best student paper**); equal contribution.*<br />
 ----
 
 * **Attention Meets Normalization and Beyond** <br />
@@ -34,7 +34,12 @@ comments: false
 
 * **DCANet: Learning Connected Attentions for Convolutional Neural Networks** <br />
   **Xu Ma**<br />
-  *under review*<br />
+  *Rejected by ECCV2020*<br />
+----
+
+* **ParaDise: Parameter Disentanglement for Neural Networks** <br />
+  **Xu Ma**<br />
+  *submiited*<br />
 ----
 
 
