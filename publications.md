@@ -37,10 +37,6 @@ comments: false
   *Rejected by ECCV2020*<br />
 ----
 
-* **ParaDise: Parameter Disentanglement for Neural Networks** <br />
-  **Xu Ma**<br />
-  *submiited*<br />
-----
 
 
 
