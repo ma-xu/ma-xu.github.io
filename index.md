@@ -8,6 +8,7 @@ image:
 ---
 
 <head>
+	<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nZVN6A1C5JWQ90UFgxusFtml0ZIM9VfoU0ubdy7kM14&cl=ffffff&w=a"></script>
     <style type="text/css">
         figure{text-align: center;}
     </style>
