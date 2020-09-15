@@ -8,7 +8,6 @@ image:
 ---
 
 <head>
-	<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nZVN6A1C5JWQ90UFgxusFtml0ZIM9VfoU0ubdy7kM14&cl=ffffff&w=a"></script>
     <style type="text/css">
         figure{text-align: center;}
     </style>
@@ -39,3 +38,5 @@ I'm a Ph.D candidate in the Department of Computer Science and Engineering at th
 [Oct 2019] We got 10,000 dollars research gift from Google Cloud Platform.<br>
 [Aug 2019] Served as an reviewer for WACV 2020. <br>
 </small>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nZVN6A1C5JWQ90UFgxusFtml0ZIM9VfoU0ubdy7kM14&cl=ffffff&w=a"></script>
