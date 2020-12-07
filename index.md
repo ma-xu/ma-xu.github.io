@@ -26,6 +26,7 @@ I'm a Ph.D candidate in the Department of Computer Science and Engineering at th
 
 ### News
 <small>
+[Dec 2020] Invited as an reviewer for ICME 2021.<br>
 [Oct 2020] Invited as an reviewer of IEEE Transactions on Image Processing.<br> 
 [Jul 2020] We got the ICME 2020 best student paper award for SPANet.<br> 
 [May 2020] We recieved a new research grant of 5,000 bucks from GCP.<br>
