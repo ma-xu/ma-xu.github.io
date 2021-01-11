@@ -11,8 +11,29 @@
         <meta name="description" content="XXX" />
         <title>Xu Ma @SmileLab</title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css" />
-        <link rel="stylesheet" href="./divider.css" />
+        <!-- <link rel="stylesheet" href="./divider.css" /> -->
         <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" data-auto-a11y="true"></script>
+        <style type="text/css">
+            .divider {
+              position: relative;
+              display: flex;
+              align-items: center;
+              text-transform: uppercase;
+              color: #7a7a7a;
+              font-size: 0.75rem;
+              font-weight: 600;
+              letter-spacing: .5px;
+              margin: 25px 0;
+            }
+            /* line 28, src/sass/app.sass */
+            .divider::after, .divider::before {
+              content: '';
+              display: block;
+              flex: 1;
+              height: 1px;
+              background-color: #dbdbdb;
+            }
+        </style>
     </head>
 
     <body style="visibility: visible;">
@@ -198,7 +219,7 @@
         <!--Start Footer-->
         <footer class="footer">
             <div class="container">
-                
+
                 <p class="title is-4">Contact Me</p>
                 <div class="columns is-desktop">
                     <div class="column">
