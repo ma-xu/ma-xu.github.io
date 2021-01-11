@@ -1,44 +1,218 @@
----
-layout: home2
-title: Xu Ma
-description: "Xu Ma's Website"
-tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: /images/website_images/mountain.png
----
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <style>
+            body {
+                visibility: hidden;
+            }
+        </style>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="XXX" />
+        <title>Xu Ma @SmileLab</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css" />
+        <link rel="stylesheet" href="./divider.css" />
+        <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" data-auto-a11y="true"></script>
+    </head>
 
-<head>
-    <style type="text/css">
-        figure{text-align: center;}
-    </style>
-</head>
+    <body style="visibility: visible;">
 
-<!-- <figure>
-  <img src="{{ site.url }}/images/author_images/Optimized-Lei-Smoky_Mountain.JPG"/>
-  <figcaption>Lei Mao at Smoky Mountain in 2015</figcaption>
-</figure> -->
-<video src="{{ site.url }}/images/author_images/video.mp4" width="100%" height="400" controls preload></video>
-<center><figcaption>Lewisville Lake, Octber 2019.</figcaption></center>
- 
-### ABOUT ME
-I'm a Ph.D candidate in the Department of Computer Science and Engineering at the University of North Texas, advised by Dr. Song Fu. I obtained the B.S and Master degrees in College of Information Science and Technology at Nanjing Forestry University, in 2015 and 2018. My research interest is primarily in Computer Vision, Pattern Recognition, and Connected Autonomous Vehicles.
+        <!--Start Navigation-->
+        <nav class="navbar has-shadow" role="navigation" aria-label="main navigation">
+            <div class="container">
+                <div class="navbar-brand">
+                    <a class="navbar-item" href="https://web.northeastern.edu/smilelab/">
+                        <img height="80px" src="https://pbs.twimg.com/profile_images/577874047528083456/wZu1hi2M.png" />
+                    </a>
+                    <a class="navbar-item" href="https://coe.northeastern.edu/">
+                        <img height="100px" src="https://brand.northeastern.edu/wp-content/uploads/seal_logotype.png" />
+                    </a>
+                    <a class="navbar-burger" role="button" data-target="svl-navbar-menu" aria-label="menu" aria-expanded="false">
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                    </a>
+                </div>
+                <!-- <div class="navbar-menu" id="svl-navbar-menu">
+                    <div class="navbar-end">
+                        <a class="navbar-item" href="">
+                            <div class="svl-navbar-item-container">Home</div>
+                        </a>
+                        <a class="navbar-item" href="">
+                            <div class="svl-navbar-item-container">People</div>
+                        </a>
+                    </div>
+                </div> -->
+            </div>
+        </nav>
+        <!--End   Navigation-->
 
 
-### News
-<small>
-[Dec 2020] Invited as an reviewer for ICME 2021.<br>
-[Oct 2020] Invited as an reviewer of IEEE Transactions on Image Processing.<br> 
-[Jul 2020] We got the ICME 2020 best student paper award for SPANet.<br> 
-[May 2020] We recieved a new research grant of 5,000 bucks from GCP.<br>
-[May 2020] SPANet has been nominated as a candidate for ICME 2020 Best Paper/Best Student Paper Award.<br>
-[May 2020] I gave a talk to [[JingDong AR/VR group]](https://ar.jd.com/). [[Slides]]({{ site.url }}/images/files/Jingdong.pdf).<br>
-[May 2020] One paper has been accepted by ICIP 2020 （first author）.<br>
-[Apr 2020] One paper has been accepted by IJCAI 2020 (first author）.<br>
-[Apr 2020] We got a research gift from Google Cloud Platform (5,000 dollars).<br>
-[Mar 2020] Two papers have been accepted by ICME 2020. (both first author, one oral + one poster)<br>
-[Jan 2020] One paper has been accepted by MetroCAD 2020.<br>
-[Oct 2019] We got 10,000 dollars research gift from Google Cloud Platform.<br>
-[Aug 2019] Served as an reviewer for WACV 2020. <br>
-</small>
+        <!--Start Main body-->
+        <section class="section has-shadow">
+            <!--Start: About Me-->
+            <div class="container">
+                <div class="columns is-desktop ">
+                    <div class="column is-2 is-offset-1">
+                        <figure class="image is-128x128">
+                            <img class="is-rounded" src="https://13952522076.github.io/images//author_images/profile.png">
+                        </figure>
+                    </div>
+                    <div class="column is-5">
+                        <p class="title is-4">Xu Ma (马旭)</p>
+                        <p class="">Department of Electrical and Computer Engineering</p>
+                        <p class="">Northeastern University</p>
+                        <i class="far fa-envelope"></i> ma.xu1@northeastern.edu
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=44d9ed&w=300&t=tt&d=nZVN6A1C5JWQ90UFgxusFtml0ZIM9VfoU0ubdy7kM14&co=faf4fa&cmo=fc6c1a&cmn=11de11&ct=080000"></script>
+                    </div>
+
+                    
+                </div>
+
+                <div class="column is-9 is-offset-1 has-text-justified">
+                    I am a PhD student at <a href="https://coe.northeastern.edu/">Department of College of Engineering</a>, Northeastern University, USA and work with <a href="http://www1.ece.neu.edu/~yunfu/">Prof. Yun(Raymond) Fu</a> in the <a href="https://web.northeastern.edu/smilelab/">SMILE Lab</a>. Before that I spent two years in the Department of Computer Sicence & Engineering, University of North Texas, working with <a href="https://www.cse.unt.edu/~song/">Prof. Song Fu</a>. I received my master degree in the College of Information Science and Technology, Nanjing Forestry University, China, in Jul. 2018 and B.E degree in Jul. 2015, advised by Prof. Yingan Liu and prof. <a href="https://it.njfu.edu.cn/szdw/20181224/i14059.html">Qiaolin Ye</a>. 
+                </div>
+                <div class="column is-9 is-offset-1 has-text-justified">
+                    My research interests are in the areas of Computer Vision, and Machine Learning. I was a research intern in the <a href="https://www.bell-labs.com/">Bell Labs</a> at Murry Hill in the summer of 2020 (remotely), advised by <a>Dr. Fangzhe Chang</a>.  I was the recipient of the <font class="has-text-danger">Best Student Paper Award</font> at IEEE International Conference on Multimedia and Expo(ICME) in 2020 and the <font class="has-text-danger">Best paper Award</font> at ACM/IEEE Symposium on Edge Computing (SEC) in 2019. 
+                </div>
+                <div class="divider"></div>
+            </div>
+
+
+            <!--News -->
+            <div class="container">
+                <p class="title is-4">News</p>
+                <div class="columns is-desktop ">
+                    <div class="column is-9 is-offset-1" style="height: 250px; overflow: auto">
+                        <p><span style="width: 100px; display:inline-block"> [Jan 2021]</span> I move to Bston and Join Smile Lab.</p>
+                        <p><span style="width: 100px; display:inline-block"> [Dec 2020]</span> Invited as an reviewer for ICME 2021.</p>
+                        <p><span style="width: 100px; display:inline-block"> [Oct 2020]</span> Invited as an reviewer of IEEE Transactions on Image Processing.</p>
+                        <p><span style="width: 100px; display:inline-block"> [Jul 2020]</span> We got the ICME 2020 best student paper award for SPANet.</p>
+                        <p><span style="width: 100px; display:inline-block"> [May 2020]</span> We recieved a new research grant of 5,000 bucks from GCP.</p>
+                        <p><span style="width: 100px; display:inline-block"> [May 2020]</span> SPANet has been nominated as a candidate for ICME 2020 Best Paper/Best Student Paper Award.</p>
+                        <p><span style="width: 100px; display:inline-block"> [May 2020]</span> I gave a talk to [JingDong AR/VR group]. [Slides].</p>
+                        <p><span style="width: 100px; display:inline-block"> [May 2020]</span> One paper has been accepted by ICIP 2020 （first author）.</p>
+                        <p><span style="width: 100px; display:inline-block"> [Apr 2020]</span> One paper has been accepted by IJCAI 2020 (first author）.</p>
+                        <p><span style="width: 100px; display:inline-block"> [Apr 2020]</span> We got a research gift from Google Cloud Platform (5,000 dollars).</p>
+                        <p><span style="width: 100px; display:inline-block"> [Mar 2020]</span> Two papers have been accepted by ICME 2020. (both first author, one oral + one poster)</p>
+                        <p><span style="width: 100px; display:inline-block"> [Jan 2020]</span> One paper has been accepted by MetroCAD 2020.</p>
+                        <p><span style="width: 100px; display:inline-block"> [Oct 2019]</span> We got 10,000 dollars research gift from Google Cloud Platform.</p>
+                        <p><span style="width: 100px; display:inline-block"> [Aug 2019]</span> Served as an reviewer for WACV 2020.  </p>   
+                    </div>
+                </div>
+                <div class="divider"></div>
+            </div>
+
+            <!--Publication-->
+            <div class="container">
+                <p class="title is-4">Selection Publications</p>
+                
+                <div class="columns is-desktop">
+                    <div class="column is-3 is-offset-1">
+                        <figure class="image is-5by3">
+                            <img src="./images/ijcai2020.png">
+                        </figure>
+                    </div>
+                    <div class="column is-7">
+                        <p class="title is-5 has-text-justified">Position-Aware Recalibration Module: Learning From Feature Semantics and Feature Position</p>
+                        <strong>Xu Ma</strong>, Song Fu 
+                        <p>International Joint Conference on Artificial Intelligence (2020)</p>
+                        <a href="https://www.ijcai.org/Proceedings/2020/0111.pdf">[pdf]</a>
+                        <a href="https://github.com/13952522076/PRM">[code]</a>
+                    </div>
+                </div>
+
+                <div class="columns is-desktop ">
+                    <div class="column is-3 is-offset-1">
+                        <figure class="image is-5by3">
+                            <img src="./images/dcanet.png">
+                        </figure>
+                    </div>
+                    <div class="column is-7">
+                        <p class="title is-5 has-text-justified">DCANet: Learning Connected Attentions for Convolutional Neural Networks</p>
+                        <strong>Xu Ma</strong>, Jingda Guo, Sihai Tang, Zhinan Qiao, Qi Chen, Qing Yang, Song Fu
+                        <p>arXiv (2020)</p>
+                        <a href="https://arxiv.org/pdf/2007.05099.pdf">[pdf]</a>
+                        <a href="https://github.com/13952522076/DCANet">[code]</a>
+                    </div>
+                </div>
+
+
+                <div class="columns is-desktop ">
+                    <div class="column is-3 is-offset-1">
+                        <figure class="image is-5by3">
+                            <img src="./images/nanet.png">
+                        </figure>
+                    </div>
+                    <div class="column is-7">
+                        <p class="title is-5 has-text-justified">Attention Meets Normalization and Beyond</p>
+                        <strong>Xu Ma</strong>, Jingda Guo, Qi Chen, Sihai Tang, Qing Yang, Song Fu
+                        <p>IEEE International Conference on Multimedia and Expo (2020)</p>
+                        <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9102909">[pdf]</a>
+                        <a href="https://github.com/13952522076/NANet">[code]</a>
+                    </div>
+                </div>
+
+
+                <div class="columns is-desktop ">
+                    <div class="column is-3 is-offset-1">
+                        <figure class="image is-5by3">
+                            <img src="./images/spanet.png">
+                        </figure>
+                    </div>
+                    <div class="column is-7">
+                        <p class="title is-5 has-text-justified">Spanet: Spatial Pyramid Attention Network for Enhanced Image Recognition</p>
+                        Jingda Guo*, <strong>Xu Ma*</strong> , Andrew Sansom, Mara McGuire, Andrew Kalaani, Qi Chen, Sihai Tang, Qing Yang, Song Fu
+                        <p>IEEE International Conference on Multimedia and Expo (2020)</p>
+                        <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9102906">[pdf]</a>
+                        <a href="https://github.com/13952522076/SPANet">[code]</a>
+                        <a href="https://github.com/13952522076/SPANet_TMM">[code(journal version)]</a>
+                    </div>
+                </div>
+
+                <div class="column is-9 is-offset-1 content is-medium">
+                    <p>For more publications, please refer <a href="https://scholar.google.com/citations?user=Ya7frcEAAAAJ&hl=en">google scholar</a>.</p>
+                </div>
+                <div class="divider"></div>
+            </div>
+
+            <!--Service-->
+            <div class="container">
+                <p class="title is-4">Service</p>
+                <div class="column is-9 is-offset-1">
+                    
+                    <STRONG >Conference: </STRONG>
+                    Reviewer for ICME 2021, WACV 2020.
+                    <br />
+                    
+                    <STRONG>Journal: </STRONG>
+                    Reviewer for TMM.
+                </div>
+                <div class="divider"></div>
+            </div>
+
+        </section>
+        <!--End   Main body-->
+        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=n&d=nZVN6A1C5JWQ90UFgxusFtml0ZIM9VfoU0ubdy7kM14'></script>
+
+        <!--Start Footer-->
+        <footer class="footer">
+            <div class="container">
+                
+                <p class="title is-4">Contact Me</p>
+                <div class="columns is-desktop">
+                    <div class="column">
+                        <p>Email: ma.xu1@northeastern.edu</p>
+                        <p>Phone: (940) 218-5140</p>
+                    </div>
+                    <div class="column has-text-right-on-desktop">
+                        <p>college of Engineering</p>
+                        <p>Northeastern University</p>
+                        
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!--Ends  Footer-->
+    </body>
+</html>
